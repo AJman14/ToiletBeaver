@@ -1,0 +1,8 @@
+body{
+  --color-Primary: #068223;
+  --color-Secondary: #ff6900;
+}
+
+a{
+  color: var(--color-Primary);
+}
